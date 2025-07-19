@@ -1,4 +1,4 @@
-## Olá, Pessoa!
+## Olá, Pessoal!
 
 Meu nome é **Gabrielly de S. Gomes 
 
